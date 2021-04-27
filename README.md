@@ -1,5 +1,5 @@
-### 喜欢的多肉植
-![x](https://user-images.githubusercontent.com/32894109/116207615-a7e75c80-a772-11eb-89f6-bc8739d0de94.jpg)
+### 喜欢的多肉植物
+![x](https://user-images.githubusercontent.com/32894109/116208010-0b718a00-a773-11eb-9bac-a9220c44c908.jpg)
 
 <!--
 **handyzhang/handyzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
