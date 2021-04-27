@@ -1,8 +1,5 @@
 ### 喜欢的多肉植
-
-![Uploading 微信图片_20210427160559.jpg…]()
-
-
+![x](https://user-images.githubusercontent.com/32894109/116207615-a7e75c80-a772-11eb-89f6-bc8739d0de94.jpg)
 
 <!--
 **handyzhang/handyzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
